@@ -20,3 +20,13 @@ git push --set-upstream origin master
 ```
 
 ### 1.3. Lên github check repo đã được push lên
+
+## 2. TẠO MỘT GIT REPO MỚI
+
+```js
+var html = document.getElementById('')
+
+```
+```html
+<p>abcdef</p>
+```
